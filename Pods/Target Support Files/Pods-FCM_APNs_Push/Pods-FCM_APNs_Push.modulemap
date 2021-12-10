@@ -1,0 +1,6 @@
+framework module Pods_FCM_APNs_Push {
+  umbrella header "Pods-FCM_APNs_Push-umbrella.h"
+
+  export *
+  module * { export * }
+}
